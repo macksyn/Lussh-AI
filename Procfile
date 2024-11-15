@@ -1,4 +1,4 @@
-web: npm install || yarn install
+web: npm start || yarn start
 
 
 
